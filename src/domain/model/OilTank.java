@@ -2,7 +2,7 @@ package domain.model;
 
 import be.kuleuven.cs.som.annotate.*;
 
-public class OilTank {
+public class OilTank {  
 /**
  * @invar  Each oil tank can have its contents as contents.
  *       | canHaveAsContents(this.getContents())
